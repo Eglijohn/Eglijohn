@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eglijohn&label=Profile%20views&color=0e75b6&style=flat" alt="eglijohn" /> </p>
 
-- 🔭 I’m currently working on [Minebot Neo](https://github.com/Eglijohn/minebot-neo)
+- 🔭 I’m currently working on Brew Bot and [Brew Addon](https://github.com/Eglijohn/brew-addon)
 
-- 🌱 I’m currently learning **Java, JavaScript**
+- 🌱 I’m currently learning **Java** and **JavaScript**
 
 - 👨‍💻 My wonderful portfolio [https://eglijohn.github.io](https://eglijohn.github.io)
 
