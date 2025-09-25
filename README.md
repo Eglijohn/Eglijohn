@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Eglijohn</h1>
-<h3 align="center">Learning Java</h3>
+<h3 align="center">Learning TypeScript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eglijohn&label=Profile%20views&color=0e75b6&style=flat" alt="eglijohn" /> </p>
 
 - 🔭 I’m currently working on Brew Bot and [Brew Addon](https://github.com/Eglijohn/brew-addon)
 
-- 🌱 I’m currently learning **Java** and **JavaScript**
+- 🌱 I’m currently learning **Java** and **TypeScript**
 
 - 👨‍💻 My wonderful portfolio [https://eglijohn.github.io](https://eglijohn.github.io)
 
@@ -24,3 +24,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eglijohn&" alt="eglijohn" /></p>
 
+Enjoy this party-hat-cat: 
+<:3
