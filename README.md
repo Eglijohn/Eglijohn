@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I spend too much time on Minecraft**
 
-- 👨‍💻 My shitty website: **[https://eglijohn.github.io](https://eglijohn.github.io)**
+- 👨‍💻 My shitty website: **[https://eglijohn.dev](https://eglijohn.dev)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
