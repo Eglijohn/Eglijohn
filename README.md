@@ -6,13 +6,13 @@
 
 - 🔭 I'm currently working on **Brew Bot, Brew Addon & Brew  Hack**
 
-- 🌱 I'm currently learning **Java**
+- 🌱 I'm currently learning **Java & C++**
 
 - 💬 Ask me about **Minecraft**
 
-- 📫 How to reach me **@eglijohn on Discord**
+- 📫 How to reach me: **@eglijohn on Discord**
 
-- ⚡ Fun fact **I spend too much time on Minecraft**
+- ⚡ Fun fact: **I spend too much time on Minecraft**
 
 - 👨‍💻 My shitty website: **[https://eglijohn.dev](https://eglijohn.dev)**
 ---
